@@ -13,12 +13,6 @@ It’s crucial to avoid using hacking tools for anything malicious. This include
 Respect Privacy:
 When conducting security tests, always keep privacy in mind. Handle any personal data with care, and make sure to report findings responsibly. Protecting people’s information should be a top priority.
 ```markdown
-## Clone the Repository
-
-To clone the repository, use the following command:
-
-```
 git clone https://github.com/AngusChiu679/Hacking_tools.git
-```
 ```
 
